@@ -1,4 +1,4 @@
-# ipac2-on-Batocera Pi4b
+# ipac2-on-Batocera Pi4b board update and reconfiguration needed
 Help with config for ipac2 using batocera on the pi4b
 
 If you intend to use your existing ipac2 to use on the new Raspberry pi 4b running a new Batocera image you may wonder why after you are prompted to map your controller input,
